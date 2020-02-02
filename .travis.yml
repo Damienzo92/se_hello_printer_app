@@ -7,5 +7,6 @@ install:
         - make deps
 script:
         - make test
-after success:
+        - make lint
         - make docker_build
+        - docker_push
