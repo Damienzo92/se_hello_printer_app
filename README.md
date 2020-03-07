@@ -7,7 +7,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ```
 
-  
+  zmiana 7.3.2020 na potrzeby zajec. nic nie zmienia
 
   # ubuntu, add to ~/.bashrc
   $ source /usr/local/bin/virtualenvwrapper.sh
